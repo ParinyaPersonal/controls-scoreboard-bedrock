@@ -75,4 +75,6 @@ console.log(money.score);
 ```
 
 ## License
-This code is provided under the MIT License. You are free to use and modify it as needed for your projects. See the [LICENSE](LICENSE) file for more information.
+This code is open-source and available under the Apache-2.0 license.
+
+Feel free to use and modify it according to your needs. If you have any questions or encounter issues, please create an issue on the GitHub repository or contact the author for support.
